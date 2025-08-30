@@ -30,8 +30,6 @@ This workshop is designed to cover the fundamental concepts, including:
 
 # 🚀 QUIZ - Sales Analytics Dashboard Challenge
 
-![Alt text](https://github.com/projekdos/dwhbi_workshop_superset_doris_batch1/blob/main/image/projeckDos-fullcolor-black.png)
-
 ## **Overview**
 You are provided with a **Sales Data Mart (`dm_sales`)**. Your task is to create an **interactive and insightful dashboard in Apache Superset**.
 

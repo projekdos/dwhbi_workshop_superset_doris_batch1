@@ -1,0 +1,11 @@
+#0. pre-load: doris already installed on centos9
+
+#1. execute sql on doris: "script/ddl.sql"
+
+#2. run csv sample to fact & dim
+#in terminal: change to "source" directory folder
+#make sure all files ready
+sh load_csv2doris.sh
+
+#3 make sure the data loaded. execute sql on doris: "script/insert_datamart.sql"
+#4. data is ready to consumed

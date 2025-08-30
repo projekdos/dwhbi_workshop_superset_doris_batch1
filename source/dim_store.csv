@@ -1,0 +1,12 @@
+StoreKey|StoreID|StoreName|City|Province|Street|StartDate|EndDate|IsCurrent|Version
+1|S001|Projek Cafe #1|Yogyakarta|DI Yogyakarta|Jl. Yogyakarta 1|2023-05-30|2024-01-25|0|1
+2|S001|Projek Cafe #1 - Yogyakarta|Yogyakarta|DI Yogyakarta|Jl. Yogyakarta 2|2024-01-26|2024-06-13|0|2
+3|S001|Projek Cafe #1 - Yogya|Yogyakarta|DI Yogyakarta|Jl. Yogyakarta 3|2024-06-14||1|3
+4|S002|Projek Cafe #2|Bandung|West Java|Jl. Bandung 1|2023-01-12|2023-08-17|0|1
+5|S002|Projek Cafe #2 - Bandung 1st|Bandung|West Java|Jl. Bandung 2|2023-08-18||1|2
+6|S003|Projek Cafe #3 - Bandung 2nd|Bandung|West Java|Jl. Bandung 3|2023-05-05||1|1
+7|S004|Projek Cafe #4|Surabaya|East Java|Jl. Surabaya 1|2024-02-05|2024-09-07|0|1
+8|S004|Projek Cafe #4 - Surabaya|Surabaya|East Java|Jl. Surabaya 2|2024-09-08||1|2
+9|S005|Projek Cafe #5|Jakarta|DKI Jakarta|Jl. Jakarta 1|2023-07-17|2024-01-13|0|1
+10|S005|Projek Cafe #5|Jakarta|DKI Jakarta|Jl. Jakarta 2|2024-01-14|2024-07-29|0|2
+11|S005|Projek Cafe #5 - Jakarta|Jakarta|DKI Jakarta|Jl. Jakarta 1|2024-07-30||1|3

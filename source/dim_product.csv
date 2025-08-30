@@ -1,0 +1,122 @@
+ProductKey|ProductID|ProductName|Category|Size|Price|StartDate|EndDate|IsCurrent|Version
+1|P001-S|Espresso|Coffee|Small|27319|2024-09-02|2024-11-21|0|1
+2|P001-S|Espresso|Coffee|Small|28653|2024-11-22|2025-06-04|0|2
+3|P001-S|Espresso|Coffee|Small|25927|2025-06-05||1|3
+4|P002-M|Espresso|Coffee|Medium|27438|2024-07-31||1|1
+5|P003-L|Espresso|Coffee|Large|45192|2024-07-14||1|1
+6|P004-S|Americano|Coffee|Small|22455|2023-07-27|2024-02-18|0|1
+7|P004-S|Americano|Coffee|Small|22695|2024-02-19|2024-09-03|0|2
+8|P004-S|Americano|Coffee|Small|25375|2024-09-04||1|3
+9|P005-M|Americano|Coffee|Medium|28965|2024-03-28|2024-06-25|0|1
+10|P005-M|Americano|Coffee|Medium|37345|2024-06-26|2025-02-15|0|2
+11|P005-M|Americano|Coffee|Medium|35154|2025-02-16||1|3
+12|P006-L|Americano|Coffee|Large|37698|2023-04-04|2023-10-11|0|1
+13|P006-L|Americano|Coffee|Large|43649|2023-10-12||1|2
+14|P007-S|Cappuccino|Coffee|Small|22161|2024-04-09||1|1
+15|P008-M|Cappuccino|Coffee|Medium|26545|2024-03-01|2024-08-24|0|1
+16|P008-M|Cappuccino|Coffee|Medium|34755|2024-08-25|2025-03-17|0|2
+17|P008-M|Cappuccino|Coffee|Medium|33175|2025-03-18||1|3
+18|P009-L|Cappuccino|Coffee|Large|34569|2023-11-12|2024-01-16|0|1
+19|P009-L|Cappuccino|Coffee|Large|43776|2024-01-17|2024-06-26|0|2
+20|P009-L|Cappuccino|Coffee|Large|30449|2024-06-27||1|3
+21|P010-S|Caffè Latte|Coffee|Small|20742|2023-08-12|2024-03-07|0|1
+22|P010-S|Caffè Latte|Coffee|Small|26941|2024-03-08|2024-05-25|0|2
+23|P010-S|Caffè Latte|Coffee|Small|25644|2024-05-26||1|3
+24|P011-M|Caffè Latte|Coffee|Medium|26730|2023-03-07|2023-09-21|0|1
+25|P011-M|Caffè Latte|Coffee|Medium|33334|2023-09-22|2023-12-06|0|2
+26|P011-M|Caffè Latte|Coffee|Medium|26119|2023-12-07||1|3
+27|P012-L|Caffè Latte|Coffee|Large|42998|2024-02-23|2024-06-08|0|1
+28|P012-L|Caffè Latte|Coffee|Large|32618|2024-06-09||1|2
+29|P013-S|Caramel Macchiato|Coffee|Small|26266|2024-10-23|2025-04-08|0|1
+30|P013-S|Caramel Macchiato|Coffee|Small|27348|2025-04-09||1|2
+31|P014-M|Caramel Macchiato|Coffee|Medium|36785|2024-01-20|2024-04-09|0|1
+32|P014-M|Caramel Macchiato|Coffee|Medium|36442|2024-04-10||1|2
+33|P015-L|Caramel Macchiato|Coffee|Large|32343|2023-05-17|2023-12-30|0|1
+34|P015-L|Caramel Macchiato|Coffee|Large|33324|2023-12-31|2024-05-28|0|2
+35|P015-L|Caramel Macchiato|Coffee|Large|39202|2024-05-29||1|3
+36|P016-S|Mocha|Coffee|Small|23648|2024-06-25|2024-09-25|0|1
+37|P016-S|Mocha|Coffee|Small|20056|2024-09-26||1|2
+38|P017-M|Mocha|Coffee|Medium|33185|2023-11-02||1|1
+39|P018-L|Mocha|Coffee|Large|36614|2024-07-11|2024-12-26|0|1
+40|P018-L|Mocha|Coffee|Large|43889|2024-12-27|2025-07-11|0|2
+41|P018-L|Mocha|Coffee|Large|34162|2025-07-12||1|3
+42|P019-S|Cold Brew|Coffee|Small|25671|2024-04-16||1|1
+43|P020-M|Cold Brew|Coffee|Medium|28688|2023-10-10||1|1
+44|P021-L|Cold Brew|Coffee|Large|37268|2023-04-26|2023-07-03|0|1
+45|P021-L|Cold Brew|Coffee|Large|40474|2023-07-04|2024-02-18|0|2
+46|P021-L|Cold Brew|Coffee|Large|42951|2024-02-19||1|3
+47|P022-S|Es Kopi Susu Gula Aren|Coffee|Small|23376|2023-09-04||1|1
+48|P023-M|Es Kopi Susu Gula Aren|Coffee|Medium|35331|2023-04-14||1|1
+49|P024-L|Es Kopi Susu Gula Aren|Coffee|Large|40194|2024-04-02||1|1
+50|P025-S|English Breakfast Tea|Tea|Small|19295|2023-02-19|2023-06-21|0|1
+51|P025-S|English Breakfast Tea|Tea|Small|19595|2023-06-22|2023-09-01|0|2
+52|P025-S|English Breakfast Tea|Tea|Small|17919|2023-09-02||1|3
+53|P026-M|English Breakfast Tea|Tea|Medium|29055|2023-08-11|2023-10-24|0|1
+54|P026-M|English Breakfast Tea|Tea|Medium|25539|2023-10-25|2024-01-28|0|2
+55|P026-M|English Breakfast Tea|Tea|Medium|24636|2024-01-29||1|3
+56|P027-L|English Breakfast Tea|Tea|Large|35396|2024-08-12|2024-12-31|0|1
+57|P027-L|English Breakfast Tea|Tea|Large|38257|2025-01-01|2025-07-27|0|2
+58|P027-L|English Breakfast Tea|Tea|Large|36618|2025-07-28||1|3
+59|P028-S|Green Tea Latte|Tea|Small|23178|2023-08-31|2024-01-15|0|1
+60|P028-S|Green Tea Latte|Tea|Small|17173|2024-01-16||1|2
+61|P029-M|Green Tea Latte|Tea|Medium|25723|2024-06-17|2024-10-11|0|1
+62|P029-M|Green Tea Latte|Tea|Medium|25308|2024-10-12|2025-03-26|0|2
+63|P029-M|Green Tea Latte|Tea|Medium|21798|2025-03-27||1|3
+64|P030-L|Green Tea Latte|Tea|Large|36720|2024-08-28|2024-12-10|0|1
+65|P030-L|Green Tea Latte|Tea|Large|32599|2024-12-11|2025-07-19|0|2
+66|P030-L|Green Tea Latte|Tea|Large|34707|2025-07-20||1|3
+67|P031-S|Matcha Frappuccino|Tea|Small|23713|2023-02-18|2023-07-16|0|1
+68|P031-S|Matcha Frappuccino|Tea|Small|21270|2023-07-17||1|2
+69|P032-M|Matcha Frappuccino|Tea|Medium|27621|2024-01-26|2024-08-07|0|1
+70|P032-M|Matcha Frappuccino|Tea|Medium|27488|2024-08-08|2024-12-27|0|2
+71|P032-M|Matcha Frappuccino|Tea|Medium|23244|2024-12-28||1|3
+72|P033-L|Matcha Frappuccino|Tea|Large|37960|2024-01-21|2024-05-07|0|1
+73|P033-L|Matcha Frappuccino|Tea|Large|34413|2024-05-08||1|2
+74|P034-S|Teh Tarik|Tea|Small|18463|2023-09-04|2023-12-30|0|1
+75|P034-S|Teh Tarik|Tea|Small|23024|2023-12-31||1|2
+76|P035-M|Teh Tarik|Tea|Medium|30014|2023-05-28|2023-11-22|0|1
+77|P035-M|Teh Tarik|Tea|Medium|27561|2023-11-23|2024-02-05|0|2
+78|P035-M|Teh Tarik|Tea|Medium|27624|2024-02-06||1|3
+79|P036-L|Teh Tarik|Tea|Large|29578|2024-06-26|2024-09-28|0|1
+80|P036-L|Teh Tarik|Tea|Large|29777|2024-09-29|2025-03-07|0|2
+81|P036-L|Teh Tarik|Tea|Large|28931|2025-03-08||1|3
+82|P037-S|Iced Lemon Tea|Tea|Small|23554|2024-10-24|2025-01-12|0|1
+83|P037-S|Iced Lemon Tea|Tea|Small|19684|2025-01-13||1|2
+84|P038-M|Iced Lemon Tea|Tea|Medium|23920|2023-04-05|2023-10-19|0|1
+85|P038-M|Iced Lemon Tea|Tea|Medium|21644|2023-10-20||1|2
+86|P039-L|Iced Lemon Tea|Tea|Large|35511|2024-01-22|2024-09-10|0|1
+87|P039-L|Iced Lemon Tea|Tea|Large|35478|2024-09-11||1|2
+88|P040-S|Croissant|Pastry|Small|15941|2023-03-16||1|1
+89|P041-M|Croissant|Pastry|Medium|25454|2024-11-18|2025-06-09|0|1
+90|P041-M|Croissant|Pastry|Medium|21022|2025-06-10||1|2
+91|P042-L|Croissant|Pastry|Large|24270|2023-11-07|2024-01-09|0|1
+92|P042-L|Croissant|Pastry|Large|23913|2024-01-10||1|2
+93|P043-S|Cheese Danish|Pastry|Small|20098|2023-05-01|2023-10-30|0|1
+94|P043-S|Cheese Danish|Pastry|Small|19351|2023-10-31|2024-03-01|0|2
+95|P043-S|Cheese Danish|Pastry|Small|20165|2024-03-02||1|3
+96|P044-M|Cheese Danish|Pastry|Medium|21521|2024-02-11||1|1
+97|P045-L|Cheese Danish|Pastry|Large|28439|2023-11-26|2024-04-06|0|1
+98|P045-L|Cheese Danish|Pastry|Large|29543|2024-04-07|2024-09-11|0|2
+99|P045-L|Cheese Danish|Pastry|Large|26686|2024-09-12||1|3
+100|P046-S|Banana Muffin|Pastry|Small|18600|2023-09-25|2024-02-24|0|1
+101|P046-S|Banana Muffin|Pastry|Small|18473|2024-02-25||1|2
+102|P047-M|Banana Muffin|Pastry|Medium|22846|2023-04-11|2023-10-08|0|1
+103|P047-M|Banana Muffin|Pastry|Medium|20928|2023-10-09||1|2
+104|P048-L|Banana Muffin|Pastry|Large|21549|2023-11-17|2024-04-30|0|1
+105|P048-L|Banana Muffin|Pastry|Large|30016|2024-05-01||1|2
+106|P049-S|Pisang Goreng Modern|Pastry|Small|14532|2023-05-30||1|1
+107|P050-M|Pisang Goreng Modern|Pastry|Medium|24441|2024-07-20|2025-02-14|0|1
+108|P050-M|Pisang Goreng Modern|Pastry|Medium|22436|2025-02-15||1|2
+109|P051-L|Pisang Goreng Modern|Pastry|Large|26204|2023-07-20||1|1
+110|P052-S|Chicken Sandwich|Snack|Small|31735|2024-01-24||1|1
+111|P053-M|Chicken Sandwich|Snack|Medium|35421|2024-05-26||1|1
+112|P054-L|Chicken Sandwich|Snack|Large|42254|2023-12-12|2024-04-15|0|1
+113|P054-L|Chicken Sandwich|Snack|Large|40913|2024-04-16|2024-10-18|0|2
+114|P054-L|Chicken Sandwich|Snack|Large|42517|2024-10-19||1|3
+115|P055-S|Tuna Sandwich|Snack|Small|28170|2024-04-16|2024-07-28|0|1
+116|P055-S|Tuna Sandwich|Snack|Small|25173|2024-07-29||1|2
+117|P056-M|Tuna Sandwich|Snack|Medium|34400|2024-07-13||1|1
+118|P057-L|Tuna Sandwich|Snack|Large|40915|2024-07-09||1|1
+119|P058-S|Pasta Aglio e Olio|Light Food|Small|28554|2024-06-20||1|1
+120|P059-M|Pasta Aglio e Olio|Light Food|Medium|35189|2024-11-15||1|1
+121|P060-L|Pasta Aglio e Olio|Light Food|Large|42905|2024-02-27||1|1

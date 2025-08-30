@@ -1,0 +1,505 @@
+CustomerKey|CustomerID|Nickname|Gender|BirthYear|MembershipLevel|City|Province|StartDate|EndDate|IsCurrent|Version
+1|C0001|Sari|Other|1975|Regular|Bandung|West Java|2023-09-08|2024-01-03|0|1
+2|C0001|Sari|Other|1975|Regular|Yogyakarta|DI Yogyakarta|2024-01-04||1|2
+3|C0002|Fajar|Male|1988|Silver|Bandung|West Java|2023-04-06||1|1
+4|C0003|Rama|Male|1994|Platinum|Denpasar|Bali|2023-07-23|2024-03-05|0|1
+5|C0003|Rama|Male|1994|Platinum|Bandung|West Java|2024-03-06|2024-10-31|0|2
+6|C0003|Rama|Male|1994|Gold|Denpasar|Bali|2024-11-01||1|3
+7|C0004|Budi|Male|1999|Silver|Bandung|West Java|2024-03-08|2024-08-02|0|1
+8|C0004|Budi|Male|1999|Regular|Surabaya|East Java|2024-08-03|2024-12-12|0|2
+9|C0004|Budi|Male|1999|Platinum|Jakarta|DKI Jakarta|2024-12-13||1|3
+10|C0005|Sari|Female|1986|Regular|Denpasar|Bali|2023-09-28|2023-12-08|0|1
+11|C0005|Sari|Female|1986|Regular|Medan|North Sumatra|2023-12-09|2024-06-03|0|2
+12|C0005|Sari|Female|1986|Gold|Denpasar|Bali|2024-06-04||1|3
+13|C0006|Sinta|Female|2003|Silver|Jakarta|DKI Jakarta|2023-07-16|2024-03-12|0|1
+14|C0006|Sinta|Female|2003|Regular|Surabaya|East Java|2024-03-13|2024-05-29|0|2
+15|C0006|Sinta|Female|2003|Regular|Bandung|West Java|2024-05-30||1|3
+16|C0007|Agus|Female|1983|Silver|Surabaya|East Java|2024-01-09|2024-04-19|0|1
+17|C0007|Agus|Female|1983|Gold|Yogyakarta|DI Yogyakarta|2024-04-20|2024-09-21|0|2
+18|C0007|Agus|Female|1983|Regular|Yogyakarta|DI Yogyakarta|2024-09-22||1|3
+19|C0008|Sinta|Male|1995|Gold|Medan|North Sumatra|2023-09-08|2023-12-18|0|1
+20|C0008|Sinta|Male|1995|Silver|Yogyakarta|DI Yogyakarta|2023-12-19|2024-06-14|0|2
+21|C0008|Sinta|Male|1995|Gold|Yogyakarta|DI Yogyakarta|2024-06-15||1|3
+22|C0009|Ani|Male|1982|Silver|Jakarta|DKI Jakarta|2024-02-15|2024-06-22|0|1
+23|C0009|Ani|Male|1982|Gold|Denpasar|Bali|2024-06-23||1|2
+24|C0010|Dimas|Female|1995|Gold|Bandung|West Java|2024-10-20|2025-04-15|0|1
+25|C0010|Dimas|Female|1995|Silver|Bandung|West Java|2025-04-16||1|2
+26|C0011|Nadia|Female|1992|Gold|Medan|North Sumatra|2024-08-21|2025-02-06|0|1
+27|C0011|Nadia|Female|1992|Silver|Bandung|West Java|2025-02-07||1|2
+28|C0012|Rama|Male|1990|Silver|Bandung|West Java|2023-04-23||1|1
+29|C0013|Maya|Male|1994|Gold|Medan|North Sumatra|2024-01-26|2024-08-25|0|1
+30|C0013|Maya|Male|1994|Regular|Denpasar|Bali|2024-08-26||1|2
+31|C0014|Sari|Other|1996|Gold|Jakarta|DKI Jakarta|2024-10-18|2025-03-14|0|1
+32|C0014|Sari|Other|1996|Silver|Medan|North Sumatra|2025-03-15||1|2
+33|C0015|Yoga|Other|1975|Regular|Denpasar|Bali|2023-09-27|2024-04-02|0|1
+34|C0015|Yoga|Other|1975|Gold|Yogyakarta|DI Yogyakarta|2024-04-03|2024-07-17|0|2
+35|C0015|Yoga|Other|1975|Silver|Yogyakarta|DI Yogyakarta|2024-07-18||1|3
+36|C0016|Wayan|Male|1986|Platinum|Surabaya|East Java|2024-06-27|2024-08-26|0|1
+37|C0016|Wayan|Male|1986|Regular|Jakarta|DKI Jakarta|2024-08-27|2025-03-28|0|2
+38|C0016|Wayan|Male|1986|Gold|Surabaya|East Java|2025-03-29||1|3
+39|C0017|Novi|Male|1976|Silver|Jakarta|DKI Jakarta|2023-03-22|2023-06-11|0|1
+40|C0017|Novi|Male|1976|Platinum|Bandung|West Java|2023-06-12|2023-12-13|0|2
+41|C0017|Novi|Male|1976|Silver|Denpasar|Bali|2023-12-14||1|3
+42|C0018|Rudi|Other|1991|Silver|Yogyakarta|DI Yogyakarta|2023-08-05|2024-02-19|0|1
+43|C0018|Rudi|Other|1991|Gold|Yogyakarta|DI Yogyakarta|2024-02-20||1|2
+44|C0019|Agus|Other|1996|Regular|Medan|North Sumatra|2024-03-24|2024-10-02|0|1
+45|C0019|Agus|Other|1996|Silver|Bandung|West Java|2024-10-03||1|2
+46|C0020|Joko|Male|1985|Regular|Bandung|West Java|2024-07-21|2024-11-16|0|1
+47|C0020|Joko|Male|1985|Regular|Jakarta|DKI Jakarta|2024-11-17|2025-06-15|0|2
+48|C0020|Joko|Male|1985|Regular|Bandung|West Java|2025-06-16||1|3
+49|C0021|Ani|Female|2002|Gold|Bandung|West Java|2024-06-10||1|1
+50|C0022|Putri|Other|1981|Platinum|Denpasar|Bali|2024-08-07||1|1
+51|C0023|Novi|Female|2000|Platinum|Jakarta|DKI Jakarta|2023-07-14|2023-10-06|0|1
+52|C0023|Novi|Female|2000|Platinum|Surabaya|East Java|2023-10-07||1|2
+53|C0024|Maya|Other|1989|Regular|Yogyakarta|DI Yogyakarta|2024-11-20||1|1
+54|C0025|Ani|Other|1987|Silver|Bandung|West Java|2023-04-22|2023-08-23|0|1
+55|C0025|Ani|Other|1987|Platinum|Denpasar|Bali|2023-08-24||1|2
+56|C0026|Wayan|Male|1988|Platinum|Jakarta|DKI Jakarta|2024-04-18|2024-08-19|0|1
+57|C0026|Wayan|Male|1988|Regular|Denpasar|Bali|2024-08-20||1|2
+58|C0027|Ani|Other|1995|Silver|Bandung|West Java|2023-04-06||1|1
+59|C0028|Maya|Female|1990|Silver|Jakarta|DKI Jakarta|2024-02-15||1|1
+60|C0029|Agus|Female|1975|Platinum|Medan|North Sumatra|2024-04-10|2024-08-21|0|1
+61|C0029|Agus|Female|1975|Silver|Bandung|West Java|2024-08-22||1|2
+62|C0030|Lia|Male|1981|Regular|Jakarta|DKI Jakarta|2024-07-09|2024-09-22|0|1
+63|C0030|Lia|Male|1981|Platinum|Denpasar|Bali|2024-09-23|2025-02-10|0|2
+64|C0030|Lia|Male|1981|Silver|Denpasar|Bali|2025-02-11||1|3
+65|C0031|Ani|Other|2005|Regular|Jakarta|DKI Jakarta|2023-07-10||1|1
+66|C0032|Novi|Male|1987|Regular|Jakarta|DKI Jakarta|2023-09-10|2024-04-05|0|1
+67|C0032|Novi|Male|1987|Gold|Medan|North Sumatra|2024-04-06|2024-11-04|0|2
+68|C0032|Novi|Male|1987|Silver|Surabaya|East Java|2024-11-05||1|3
+69|C0033|Andi|Female|1982|Gold|Yogyakarta|DI Yogyakarta|2023-05-15|2024-01-01|0|1
+70|C0033|Andi|Female|1982|Gold|Medan|North Sumatra|2024-01-02||1|2
+71|C0034|Joko|Female|1975|Silver|Denpasar|Bali|2024-07-30|2024-10-23|0|1
+72|C0034|Joko|Female|1975|Gold|Denpasar|Bali|2024-10-24|2025-01-10|0|2
+73|C0034|Joko|Female|1975|Gold|Bandung|West Java|2025-01-11||1|3
+74|C0035|Joko|Male|2003|Gold|Medan|North Sumatra|2023-10-19|2024-01-27|0|1
+75|C0035|Joko|Male|2003|Regular|Denpasar|Bali|2024-01-28||1|2
+76|C0036|Nadia|Other|1984|Regular|Surabaya|East Java|2023-05-18||1|1
+77|C0037|Sari|Other|1998|Silver|Surabaya|East Java|2023-10-06||1|1
+78|C0038|Andi|Other|1981|Regular|Surabaya|East Java|2023-09-28|2024-04-04|0|1
+79|C0038|Andi|Other|1981|Platinum|Jakarta|DKI Jakarta|2024-04-05|2024-10-07|0|2
+80|C0038|Andi|Other|1981|Regular|Surabaya|East Java|2024-10-08||1|3
+81|C0039|Budi|Male|1985|Platinum|Denpasar|Bali|2023-09-26|2024-01-05|0|1
+82|C0039|Budi|Male|1985|Regular|Denpasar|Bali|2024-01-06|2024-06-27|0|2
+83|C0039|Budi|Male|1985|Regular|Jakarta|DKI Jakarta|2024-06-28||1|3
+84|C0040|Wayan|Male|1992|Platinum|Bandung|West Java|2024-08-19|2025-03-08|0|1
+85|C0040|Wayan|Male|1992|Regular|Bandung|West Java|2025-03-09||1|2
+86|C0041|Lia|Male|1986|Regular|Bandung|West Java|2023-08-04|2024-03-25|0|1
+87|C0041|Lia|Male|1986|Platinum|Surabaya|East Java|2024-03-26||1|2
+88|C0042|Sinta|Male|1998|Platinum|Bandung|West Java|2023-06-16||1|1
+89|C0043|Budi|Other|1980|Silver|Yogyakarta|DI Yogyakarta|2024-02-26|2024-10-14|0|1
+90|C0043|Budi|Other|1980|Silver|Surabaya|East Java|2024-10-15||1|2
+91|C0044|Sari|Male|1987|Gold|Medan|North Sumatra|2023-08-16|2023-12-05|0|1
+92|C0044|Sari|Male|1987|Silver|Surabaya|East Java|2023-12-06||1|2
+93|C0045|Novi|Other|1975|Gold|Surabaya|East Java|2024-02-13||1|1
+94|C0046|Joko|Female|2005|Gold|Medan|North Sumatra|2024-10-18|2025-04-26|0|1
+95|C0046|Joko|Female|2005|Regular|Jakarta|DKI Jakarta|2025-04-27||1|2
+96|C0047|Rudi|Other|1980|Platinum|Denpasar|Bali|2023-02-09|2023-05-07|0|1
+97|C0047|Rudi|Other|1980|Gold|Surabaya|East Java|2023-05-08||1|2
+98|C0048|Maya|Other|1994|Silver|Denpasar|Bali|2024-01-30||1|1
+99|C0049|Rudi|Other|1976|Silver|Denpasar|Bali|2023-01-02|2023-07-14|0|1
+100|C0049|Rudi|Other|1976|Platinum|Surabaya|East Java|2023-07-15||1|2
+101|C0050|Joko|Other|2005|Regular|Yogyakarta|DI Yogyakarta|2024-09-30|2025-02-17|0|1
+102|C0050|Joko|Other|2005|Gold|Yogyakarta|DI Yogyakarta|2025-02-18||1|2
+103|C0051|Rama|Other|1984|Gold|Yogyakarta|DI Yogyakarta|2023-12-01|2024-05-12|0|1
+104|C0051|Rama|Other|1984|Silver|Denpasar|Bali|2024-05-13||1|2
+105|C0052|Dimas|Other|1988|Gold|Denpasar|Bali|2024-11-24|2025-03-08|0|1
+106|C0052|Dimas|Other|1988|Regular|Medan|North Sumatra|2025-03-09||1|2
+107|C0053|Lia|Male|1984|Gold|Yogyakarta|DI Yogyakarta|2024-08-16|2025-03-19|0|1
+108|C0053|Lia|Male|1984|Platinum|Medan|North Sumatra|2025-03-20||1|2
+109|C0054|Yoga|Male|1996|Gold|Jakarta|DKI Jakarta|2024-04-29|2024-08-10|0|1
+110|C0054|Yoga|Male|1996|Gold|Denpasar|Bali|2024-08-11|2025-03-27|0|2
+111|C0054|Yoga|Male|1996|Silver|Jakarta|DKI Jakarta|2025-03-28||1|3
+112|C0055|Lia|Male|1982|Silver|Jakarta|DKI Jakarta|2023-01-26||1|1
+113|C0056|Putri|Male|1994|Silver|Denpasar|Bali|2024-02-29|2024-10-07|0|1
+114|C0056|Putri|Male|1994|Platinum|Yogyakarta|DI Yogyakarta|2024-10-08||1|2
+115|C0057|Putri|Male|1987|Regular|Yogyakarta|DI Yogyakarta|2024-11-02||1|1
+116|C0058|Sari|Female|1999|Platinum|Yogyakarta|DI Yogyakarta|2023-06-30||1|1
+117|C0059|Ani|Male|1992|Platinum|Bandung|West Java|2024-04-12||1|1
+118|C0060|Rama|Other|1992|Platinum|Yogyakarta|DI Yogyakarta|2024-03-29|2024-10-31|0|1
+119|C0060|Rama|Other|1992|Platinum|Denpasar|Bali|2024-11-01||1|2
+120|C0061|Rina|Female|1998|Gold|Yogyakarta|DI Yogyakarta|2023-09-23|2024-01-24|0|1
+121|C0061|Rina|Female|1998|Platinum|Denpasar|Bali|2024-01-25||1|2
+122|C0062|Novi|Female|1983|Gold|Bandung|West Java|2023-10-20||1|1
+123|C0063|Andi|Other|1985|Silver|Bandung|West Java|2023-05-22||1|1
+124|C0064|Agus|Male|1997|Gold|Medan|North Sumatra|2023-08-08|2023-10-23|0|1
+125|C0064|Agus|Male|1997|Platinum|Denpasar|Bali|2023-10-24|2024-04-07|0|2
+126|C0064|Agus|Male|1997|Regular|Medan|North Sumatra|2024-04-08||1|3
+127|C0065|Dimas|Female|2001|Platinum|Jakarta|DKI Jakarta|2024-08-21|2025-04-16|0|1
+128|C0065|Dimas|Female|2001|Regular|Medan|North Sumatra|2025-04-17||1|2
+129|C0066|Vina|Female|1984|Silver|Denpasar|Bali|2024-07-05|2025-01-20|0|1
+130|C0066|Vina|Female|1984|Silver|Medan|North Sumatra|2025-01-21||1|2
+131|C0067|Rudi|Female|1988|Platinum|Surabaya|East Java|2024-02-03||1|1
+132|C0068|Rina|Female|2001|Regular|Denpasar|Bali|2024-09-29||1|1
+133|C0069|Agus|Other|1993|Silver|Medan|North Sumatra|2023-01-28|2023-04-19|0|1
+134|C0069|Agus|Other|1993|Silver|Medan|North Sumatra|2023-04-20|2023-11-30|0|2
+135|C0069|Agus|Other|1993|Gold|Jakarta|DKI Jakarta|2023-12-01||1|3
+136|C0070|Agus|Male|1985|Gold|Medan|North Sumatra|2023-12-01|2024-04-25|0|1
+137|C0070|Agus|Male|1985|Gold|Medan|North Sumatra|2024-04-26||1|2
+138|C0071|Joko|Male|1990|Regular|Bandung|West Java|2024-07-06|2024-09-17|0|1
+139|C0071|Joko|Male|1990|Regular|Yogyakarta|DI Yogyakarta|2024-09-18|2025-02-14|0|2
+140|C0071|Joko|Male|1990|Silver|Jakarta|DKI Jakarta|2025-02-15||1|3
+141|C0072|Dimas|Male|2001|Regular|Medan|North Sumatra|2023-06-06|2023-10-05|0|1
+142|C0072|Dimas|Male|2001|Silver|Denpasar|Bali|2023-10-06|2024-01-06|0|2
+143|C0072|Dimas|Male|2001|Gold|Medan|North Sumatra|2024-01-07||1|3
+144|C0073|Vina|Other|1980|Regular|Jakarta|DKI Jakarta|2023-04-28|2023-08-07|0|1
+145|C0073|Vina|Other|1980|Platinum|Surabaya|East Java|2023-08-08|2023-12-25|0|2
+146|C0073|Vina|Other|1980|Silver|Medan|North Sumatra|2023-12-26||1|3
+147|C0074|Joko|Other|1993|Regular|Surabaya|East Java|2023-09-06|2023-12-01|0|1
+148|C0074|Joko|Other|1993|Regular|Denpasar|Bali|2023-12-02|2024-07-27|0|2
+149|C0074|Joko|Other|1993|Platinum|Surabaya|East Java|2024-07-28||1|3
+150|C0075|Vina|Other|1977|Regular|Medan|North Sumatra|2023-12-16|2024-02-17|0|1
+151|C0075|Vina|Other|1977|Gold|Medan|North Sumatra|2024-02-18|2024-08-03|0|2
+152|C0075|Vina|Other|1977|Platinum|Yogyakarta|DI Yogyakarta|2024-08-04||1|3
+153|C0076|Wayan|Male|1988|Platinum|Denpasar|Bali|2024-06-18|2025-01-30|0|1
+154|C0076|Wayan|Male|1988|Platinum|Medan|North Sumatra|2025-01-31|2025-06-09|0|2
+155|C0076|Wayan|Male|1988|Gold|Yogyakarta|DI Yogyakarta|2025-06-10||1|3
+156|C0077|Andi|Male|2002|Silver|Medan|North Sumatra|2023-10-13||1|1
+157|C0078|Yoga|Other|1993|Gold|Medan|North Sumatra|2024-01-24|2024-06-18|0|1
+158|C0078|Yoga|Other|1993|Platinum|Bandung|West Java|2024-06-19|2024-08-25|0|2
+159|C0078|Yoga|Other|1993|Gold|Bandung|West Java|2024-08-26||1|3
+160|C0079|Rudi|Female|1985|Silver|Denpasar|Bali|2023-10-10|2024-04-29|0|1
+161|C0079|Rudi|Female|1985|Silver|Jakarta|DKI Jakarta|2024-04-30|2024-07-01|0|2
+162|C0079|Rudi|Female|1985|Platinum|Yogyakarta|DI Yogyakarta|2024-07-02||1|3
+163|C0080|Putri|Male|1992|Regular|Medan|North Sumatra|2024-05-02|2024-12-13|0|1
+164|C0080|Putri|Male|1992|Gold|Jakarta|DKI Jakarta|2024-12-14|2025-06-17|0|2
+165|C0080|Putri|Male|1992|Platinum|Bandung|West Java|2025-06-18||1|3
+166|C0081|Novi|Other|1984|Gold|Denpasar|Bali|2024-01-13|2024-07-12|0|1
+167|C0081|Novi|Other|1984|Gold|Medan|North Sumatra|2024-07-13|2025-01-30|0|2
+168|C0081|Novi|Other|1984|Platinum|Surabaya|East Java|2025-01-31||1|3
+169|C0082|Rudi|Female|1984|Silver|Yogyakarta|DI Yogyakarta|2023-05-04||1|1
+170|C0083|Andi|Other|1978|Platinum|Yogyakarta|DI Yogyakarta|2023-07-09|2023-10-26|0|1
+171|C0083|Andi|Other|1978|Gold|Surabaya|East Java|2023-10-27|2024-02-19|0|2
+172|C0083|Andi|Other|1978|Silver|Jakarta|DKI Jakarta|2024-02-20||1|3
+173|C0084|Lia|Female|1982|Silver|Jakarta|DKI Jakarta|2023-11-06||1|1
+174|C0085|Rudi|Male|1976|Platinum|Yogyakarta|DI Yogyakarta|2023-10-27|2024-06-21|0|1
+175|C0085|Rudi|Male|1976|Regular|Jakarta|DKI Jakarta|2024-06-22|2024-09-22|0|2
+176|C0085|Rudi|Male|1976|Gold|Denpasar|Bali|2024-09-23||1|3
+177|C0086|Putri|Female|1990|Platinum|Surabaya|East Java|2023-07-08|2023-09-19|0|1
+178|C0086|Putri|Female|1990|Regular|Jakarta|DKI Jakarta|2023-09-20||1|2
+179|C0087|Agus|Male|1990|Silver|Bandung|West Java|2024-10-06|2025-05-29|0|1
+180|C0087|Agus|Male|1990|Gold|Denpasar|Bali|2025-05-30||1|2
+181|C0088|Joko|Male|1982|Silver|Denpasar|Bali|2024-03-02|2024-10-03|0|1
+182|C0088|Joko|Male|1982|Platinum|Denpasar|Bali|2024-10-04|2025-05-04|0|2
+183|C0088|Joko|Male|1982|Platinum|Medan|North Sumatra|2025-05-05||1|3
+184|C0089|Lia|Other|2002|Regular|Denpasar|Bali|2023-11-09|2024-06-01|0|1
+185|C0089|Lia|Other|2002|Regular|Denpasar|Bali|2024-06-02||1|2
+186|C0090|Dimas|Male|1995|Silver|Bandung|West Java|2024-11-07|2025-01-26|0|1
+187|C0090|Dimas|Male|1995|Regular|Bandung|West Java|2025-01-27||1|2
+188|C0091|Rina|Female|1975|Regular|Surabaya|East Java|2024-08-31|2025-02-27|0|1
+189|C0091|Rina|Female|1975|Gold|Bandung|West Java|2025-02-28||1|2
+190|C0092|Lia|Female|1997|Silver|Surabaya|East Java|2023-08-28||1|1
+191|C0093|Maya|Other|1978|Gold|Bandung|West Java|2024-10-25||1|1
+192|C0094|Wayan|Male|1977|Gold|Denpasar|Bali|2023-11-11||1|1
+193|C0095|Yoga|Female|1978|Platinum|Surabaya|East Java|2023-11-08|2024-07-04|0|1
+194|C0095|Yoga|Female|1978|Regular|Medan|North Sumatra|2024-07-05|2024-12-15|0|2
+195|C0095|Yoga|Female|1978|Regular|Denpasar|Bali|2024-12-16||1|3
+196|C0096|Maya|Female|1998|Regular|Bandung|West Java|2023-09-14|2023-11-19|0|1
+197|C0096|Maya|Female|1998|Gold|Yogyakarta|DI Yogyakarta|2023-11-20|2024-02-11|0|2
+198|C0096|Maya|Female|1998|Regular|Denpasar|Bali|2024-02-12||1|3
+199|C0097|Rina|Other|1990|Platinum|Denpasar|Bali|2024-03-28|2024-08-06|0|1
+200|C0097|Rina|Other|1990|Platinum|Yogyakarta|DI Yogyakarta|2024-08-07|2024-11-21|0|2
+201|C0097|Rina|Other|1990|Platinum|Jakarta|DKI Jakarta|2024-11-22||1|3
+202|C0098|Vina|Female|1988|Gold|Bandung|West Java|2024-11-17|2025-02-11|0|1
+203|C0098|Vina|Female|1988|Platinum|Medan|North Sumatra|2025-02-12||1|2
+204|C0099|Lia|Female|1996|Gold|Surabaya|East Java|2023-02-07|2023-08-02|0|1
+205|C0099|Lia|Female|1996|Regular|Surabaya|East Java|2023-08-03|2023-10-24|0|2
+206|C0099|Lia|Female|1996|Regular|Medan|North Sumatra|2023-10-25||1|3
+207|C0100|Nadia|Female|1989|Gold|Denpasar|Bali|2023-07-12||1|1
+208|C0101|Sinta|Female|1999|Silver|Surabaya|East Java|2024-03-28|2024-06-09|0|1
+209|C0101|Sinta|Female|1999|Platinum|Surabaya|East Java|2024-06-10|2024-09-30|0|2
+210|C0101|Sinta|Female|1999|Platinum|Yogyakarta|DI Yogyakarta|2024-10-01||1|3
+211|C0102|Sari|Other|1975|Regular|Denpasar|Bali|2023-09-03|2023-12-12|0|1
+212|C0102|Sari|Other|1975|Platinum|Denpasar|Bali|2023-12-13|2024-04-30|0|2
+213|C0102|Sari|Other|1975|Silver|Jakarta|DKI Jakarta|2024-05-01||1|3
+214|C0103|Sari|Male|1989|Gold|Denpasar|Bali|2023-06-07|2023-12-11|0|1
+215|C0103|Sari|Male|1989|Platinum|Medan|North Sumatra|2023-12-12|2024-04-24|0|2
+216|C0103|Sari|Male|1989|Silver|Medan|North Sumatra|2024-04-25||1|3
+217|C0104|Yoga|Male|1992|Silver|Denpasar|Bali|2023-07-15|2024-02-13|0|1
+218|C0104|Yoga|Male|1992|Gold|Jakarta|DKI Jakarta|2024-02-14||1|2
+219|C0105|Maya|Other|1985|Gold|Yogyakarta|DI Yogyakarta|2023-01-03|2023-05-15|0|1
+220|C0105|Maya|Other|1985|Platinum|Denpasar|Bali|2023-05-16||1|2
+221|C0106|Wayan|Other|1989|Platinum|Denpasar|Bali|2023-12-20|2024-05-13|0|1
+222|C0106|Wayan|Other|1989|Gold|Medan|North Sumatra|2024-05-14||1|2
+223|C0107|Dimas|Male|1997|Gold|Jakarta|DKI Jakarta|2024-01-28|2024-05-26|0|1
+224|C0107|Dimas|Male|1997|Platinum|Yogyakarta|DI Yogyakarta|2024-05-27|2024-11-08|0|2
+225|C0107|Dimas|Male|1997|Platinum|Yogyakarta|DI Yogyakarta|2024-11-09||1|3
+226|C0108|Agus|Other|1996|Silver|Jakarta|DKI Jakarta|2024-05-22||1|1
+227|C0109|Rama|Other|2005|Platinum|Jakarta|DKI Jakarta|2023-04-13|2023-10-02|0|1
+228|C0109|Rama|Other|2005|Silver|Jakarta|DKI Jakarta|2023-10-03||1|2
+229|C0110|Maya|Other|2002|Gold|Medan|North Sumatra|2023-03-18||1|1
+230|C0111|Andi|Other|1994|Platinum|Surabaya|East Java|2024-10-27|2025-01-15|0|1
+231|C0111|Andi|Other|1994|Platinum|Surabaya|East Java|2025-01-16||1|2
+232|C0112|Nadia|Other|1976|Gold|Yogyakarta|DI Yogyakarta|2023-08-29||1|1
+233|C0113|Novi|Male|1998|Regular|Yogyakarta|DI Yogyakarta|2023-04-11|2023-11-19|0|1
+234|C0113|Novi|Male|1998|Silver|Medan|North Sumatra|2023-11-20||1|2
+235|C0114|Lia|Male|2003|Gold|Jakarta|DKI Jakarta|2023-11-29||1|1
+236|C0115|Vina|Female|1986|Platinum|Denpasar|Bali|2023-09-08||1|1
+237|C0116|Fajar|Male|1996|Platinum|Jakarta|DKI Jakarta|2023-06-29||1|1
+238|C0117|Sinta|Male|1996|Platinum|Bandung|West Java|2024-08-20|2024-11-24|0|1
+239|C0117|Sinta|Male|1996|Gold|Yogyakarta|DI Yogyakarta|2024-11-25||1|2
+240|C0118|Yoga|Other|1983|Silver|Surabaya|East Java|2024-04-21||1|1
+241|C0119|Joko|Female|1989|Gold|Yogyakarta|DI Yogyakarta|2023-11-03|2024-06-13|0|1
+242|C0119|Joko|Female|1989|Gold|Medan|North Sumatra|2024-06-14|2024-11-29|0|2
+243|C0119|Joko|Female|1989|Platinum|Bandung|West Java|2024-11-30||1|3
+244|C0120|Putri|Male|1978|Gold|Denpasar|Bali|2024-08-08|2025-01-06|0|1
+245|C0120|Putri|Male|1978|Gold|Yogyakarta|DI Yogyakarta|2025-01-07||1|2
+246|C0121|Budi|Other|2001|Regular|Denpasar|Bali|2023-10-09|2023-12-10|0|1
+247|C0121|Budi|Other|2001|Platinum|Denpasar|Bali|2023-12-11||1|2
+248|C0122|Lia|Male|1999|Gold|Bandung|West Java|2023-12-27|2024-04-21|0|1
+249|C0122|Lia|Male|1999|Silver|Yogyakarta|DI Yogyakarta|2024-04-22|2024-11-30|0|2
+250|C0122|Lia|Male|1999|Regular|Yogyakarta|DI Yogyakarta|2024-12-01||1|3
+251|C0123|Ani|Female|1984|Silver|Surabaya|East Java|2024-08-16||1|1
+252|C0124|Joko|Female|2004|Silver|Bandung|West Java|2024-03-01|2024-06-13|0|1
+253|C0124|Joko|Female|2004|Gold|Denpasar|Bali|2024-06-14||1|2
+254|C0125|Rama|Female|1991|Gold|Medan|North Sumatra|2023-09-21||1|1
+255|C0126|Andi|Male|2000|Platinum|Bandung|West Java|2023-03-19|2023-06-23|0|1
+256|C0126|Andi|Male|2000|Gold|Denpasar|Bali|2023-06-24||1|2
+257|C0127|Joko|Female|2000|Regular|Denpasar|Bali|2023-09-28||1|1
+258|C0128|Yoga|Other|1986|Gold|Medan|North Sumatra|2024-11-19|2025-03-26|0|1
+259|C0128|Yoga|Other|1986|Silver|Jakarta|DKI Jakarta|2025-03-27||1|2
+260|C0129|Putri|Other|1975|Regular|Yogyakarta|DI Yogyakarta|2023-12-02|2024-07-05|0|1
+261|C0129|Putri|Other|1975|Platinum|Yogyakarta|DI Yogyakarta|2024-07-06|2024-10-30|0|2
+262|C0129|Putri|Other|1975|Gold|Yogyakarta|DI Yogyakarta|2024-10-31||1|3
+263|C0130|Maya|Male|1978|Platinum|Surabaya|East Java|2023-02-08||1|1
+264|C0131|Sari|Male|1978|Platinum|Surabaya|East Java|2023-05-19|2023-10-25|0|1
+265|C0131|Sari|Male|1978|Silver|Denpasar|Bali|2023-10-26|2024-04-19|0|2
+266|C0131|Sari|Male|1978|Regular|Medan|North Sumatra|2024-04-20||1|3
+267|C0132|Putri|Female|1994|Silver|Surabaya|East Java|2023-02-03|2023-09-27|0|1
+268|C0132|Putri|Female|1994|Platinum|Medan|North Sumatra|2023-09-28||1|2
+269|C0133|Novi|Female|2002|Gold|Denpasar|Bali|2024-01-12||1|1
+270|C0134|Ani|Female|1987|Regular|Medan|North Sumatra|2023-05-06||1|1
+271|C0135|Dimas|Other|1995|Silver|Bandung|West Java|2023-01-22|2023-04-04|0|1
+272|C0135|Dimas|Other|1995|Silver|Denpasar|Bali|2023-04-05|2023-08-28|0|2
+273|C0135|Dimas|Other|1995|Silver|Jakarta|DKI Jakarta|2023-08-29||1|3
+274|C0136|Fajar|Male|1981|Gold|Jakarta|DKI Jakarta|2023-06-01|2023-12-30|0|1
+275|C0136|Fajar|Male|1981|Silver|Bandung|West Java|2023-12-31||1|2
+276|C0137|Nadia|Male|1983|Silver|Jakarta|DKI Jakarta|2024-11-07||1|1
+277|C0138|Budi|Male|1986|Regular|Surabaya|East Java|2023-11-28|2024-01-31|0|1
+278|C0138|Budi|Male|1986|Platinum|Bandung|West Java|2024-02-01|2024-05-15|0|2
+279|C0138|Budi|Male|1986|Regular|Denpasar|Bali|2024-05-16||1|3
+280|C0139|Joko|Female|1990|Platinum|Jakarta|DKI Jakarta|2024-06-09|2025-01-06|0|1
+281|C0139|Joko|Female|1990|Silver|Denpasar|Bali|2025-01-07||1|2
+282|C0140|Sinta|Other|1976|Regular|Yogyakarta|DI Yogyakarta|2024-06-17|2024-11-01|0|1
+283|C0140|Sinta|Other|1976|Platinum|Jakarta|DKI Jakarta|2024-11-02|2025-04-28|0|2
+284|C0140|Sinta|Other|1976|Platinum|Medan|North Sumatra|2025-04-29||1|3
+285|C0141|Sari|Other|1990|Silver|Surabaya|East Java|2023-03-17|2023-06-05|0|1
+286|C0141|Sari|Other|1990|Silver|Jakarta|DKI Jakarta|2023-06-06||1|2
+287|C0142|Rudi|Other|1994|Gold|Denpasar|Bali|2024-07-15|2024-12-05|0|1
+288|C0142|Rudi|Other|1994|Platinum|Medan|North Sumatra|2024-12-06|2025-05-12|0|2
+289|C0142|Rudi|Other|1994|Regular|Jakarta|DKI Jakarta|2025-05-13||1|3
+290|C0143|Nadia|Male|1998|Gold|Medan|North Sumatra|2024-04-07|2024-08-03|0|1
+291|C0143|Nadia|Male|1998|Platinum|Medan|North Sumatra|2024-08-04||1|2
+292|C0144|Maya|Male|1998|Gold|Yogyakarta|DI Yogyakarta|2024-03-13|2024-07-31|0|1
+293|C0144|Maya|Male|1998|Silver|Surabaya|East Java|2024-08-01||1|2
+294|C0145|Putri|Male|1977|Regular|Medan|North Sumatra|2023-04-06||1|1
+295|C0146|Vina|Male|2000|Gold|Denpasar|Bali|2023-03-03|2023-09-29|0|1
+296|C0146|Vina|Male|2000|Regular|Yogyakarta|DI Yogyakarta|2023-09-30|2024-04-20|0|2
+297|C0146|Vina|Male|2000|Gold|Medan|North Sumatra|2024-04-21||1|3
+298|C0147|Maya|Other|2002|Gold|Denpasar|Bali|2023-10-22||1|1
+299|C0148|Vina|Other|1978|Silver|Medan|North Sumatra|2023-08-06|2023-11-13|0|1
+300|C0148|Vina|Other|1978|Gold|Jakarta|DKI Jakarta|2023-11-14|2024-06-29|0|2
+301|C0148|Vina|Other|1978|Gold|Denpasar|Bali|2024-06-30||1|3
+302|C0149|Sari|Female|1999|Regular|Denpasar|Bali|2023-08-20|2024-02-05|0|1
+303|C0149|Sari|Female|1999|Gold|Denpasar|Bali|2024-02-06|2024-08-27|0|2
+304|C0149|Sari|Female|1999|Silver|Jakarta|DKI Jakarta|2024-08-28||1|3
+305|C0150|Rudi|Female|1997|Silver|Bandung|West Java|2023-12-26|2024-02-25|0|1
+306|C0150|Rudi|Female|1997|Platinum|Denpasar|Bali|2024-02-26||1|2
+307|C0151|Joko|Other|1979|Platinum|Bandung|West Java|2023-02-01|2023-04-25|0|1
+308|C0151|Joko|Other|1979|Platinum|Medan|North Sumatra|2023-04-26|2023-11-07|0|2
+309|C0151|Joko|Other|1979|Silver|Surabaya|East Java|2023-11-08||1|3
+310|C0152|Vina|Other|1984|Regular|Jakarta|DKI Jakarta|2024-08-04|2025-03-04|0|1
+311|C0152|Vina|Other|1984|Silver|Bandung|West Java|2025-03-05||1|2
+312|C0153|Sinta|Other|1976|Platinum|Medan|North Sumatra|2023-10-06||1|1
+313|C0154|Putri|Female|1994|Regular|Denpasar|Bali|2023-10-07|2024-01-30|0|1
+314|C0154|Putri|Female|1994|Platinum|Surabaya|East Java|2024-01-31||1|2
+315|C0155|Sari|Other|1984|Gold|Yogyakarta|DI Yogyakarta|2024-08-30|2025-03-02|0|1
+316|C0155|Sari|Other|1984|Silver|Jakarta|DKI Jakarta|2025-03-03||1|2
+317|C0156|Agus|Male|1994|Silver|Surabaya|East Java|2023-07-29||1|1
+318|C0157|Wayan|Female|1999|Platinum|Jakarta|DKI Jakarta|2023-12-02|2024-03-01|0|1
+319|C0157|Wayan|Female|1999|Platinum|Yogyakarta|DI Yogyakarta|2024-03-02||1|2
+320|C0158|Rina|Female|1979|Gold|Yogyakarta|DI Yogyakarta|2023-08-24|2024-02-28|0|1
+321|C0158|Rina|Female|1979|Platinum|Jakarta|DKI Jakarta|2024-02-29|2024-09-19|0|2
+322|C0158|Rina|Female|1979|Regular|Yogyakarta|DI Yogyakarta|2024-09-20||1|3
+323|C0159|Maya|Female|1975|Platinum|Denpasar|Bali|2023-11-17||1|1
+324|C0160|Fajar|Other|1987|Regular|Medan|North Sumatra|2024-03-03|2024-07-15|0|1
+325|C0160|Fajar|Other|1987|Silver|Surabaya|East Java|2024-07-16|2024-10-13|0|2
+326|C0160|Fajar|Other|1987|Platinum|Denpasar|Bali|2024-10-14||1|3
+327|C0161|Vina|Female|1977|Platinum|Medan|North Sumatra|2023-09-07||1|1
+328|C0162|Rama|Female|1977|Silver|Surabaya|East Java|2023-12-14|2024-04-08|0|1
+329|C0162|Rama|Female|1977|Regular|Jakarta|DKI Jakarta|2024-04-09||1|2
+330|C0163|Rama|Male|1991|Silver|Bandung|West Java|2023-12-26|2024-08-07|0|1
+331|C0163|Rama|Male|1991|Silver|Jakarta|DKI Jakarta|2024-08-08||1|2
+332|C0164|Rudi|Male|1981|Platinum|Bandung|West Java|2023-06-06|2024-01-19|0|1
+333|C0164|Rudi|Male|1981|Platinum|Medan|North Sumatra|2024-01-20|2024-04-08|0|2
+334|C0164|Rudi|Male|1981|Gold|Yogyakarta|DI Yogyakarta|2024-04-09||1|3
+335|C0165|Andi|Female|1979|Gold|Medan|North Sumatra|2024-04-25||1|1
+336|C0166|Rudi|Male|1993|Platinum|Surabaya|East Java|2024-06-03|2024-08-20|0|1
+337|C0166|Rudi|Male|1993|Regular|Medan|North Sumatra|2024-08-21||1|2
+338|C0167|Ani|Female|1986|Platinum|Jakarta|DKI Jakarta|2024-10-22||1|1
+339|C0168|Yoga|Other|1993|Silver|Yogyakarta|DI Yogyakarta|2023-02-12|2023-08-06|0|1
+340|C0168|Yoga|Other|1993|Platinum|Surabaya|East Java|2023-08-07|2024-02-29|0|2
+341|C0168|Yoga|Other|1993|Silver|Denpasar|Bali|2024-03-01||1|3
+342|C0169|Ani|Male|1989|Silver|Yogyakarta|DI Yogyakarta|2023-03-28|2023-10-03|0|1
+343|C0169|Ani|Male|1989|Silver|Jakarta|DKI Jakarta|2023-10-04||1|2
+344|C0170|Yoga|Other|1989|Gold|Surabaya|East Java|2024-09-16|2024-12-25|0|1
+345|C0170|Yoga|Other|1989|Platinum|Medan|North Sumatra|2024-12-26|2025-05-28|0|2
+346|C0170|Yoga|Other|1989|Regular|Surabaya|East Java|2025-05-29||1|3
+347|C0171|Andi|Female|1977|Platinum|Yogyakarta|DI Yogyakarta|2024-07-25||1|1
+348|C0172|Lia|Other|1983|Silver|Jakarta|DKI Jakarta|2024-09-09|2024-12-16|0|1
+349|C0172|Lia|Other|1983|Gold|Surabaya|East Java|2024-12-17|2025-05-11|0|2
+350|C0172|Lia|Other|1983|Platinum|Yogyakarta|DI Yogyakarta|2025-05-12||1|3
+351|C0173|Wayan|Other|1994|Platinum|Denpasar|Bali|2023-11-14||1|1
+352|C0174|Andi|Male|2001|Platinum|Yogyakarta|DI Yogyakarta|2024-06-23|2024-09-14|0|1
+353|C0174|Andi|Male|2001|Gold|Denpasar|Bali|2024-09-15|2025-04-28|0|2
+354|C0174|Andi|Male|2001|Gold|Jakarta|DKI Jakarta|2025-04-29||1|3
+355|C0175|Lia|Male|1980|Silver|Bandung|West Java|2024-05-12|2024-08-29|0|1
+356|C0175|Lia|Male|1980|Regular|Bandung|West Java|2024-08-30||1|2
+357|C0176|Lia|Male|2002|Gold|Yogyakarta|DI Yogyakarta|2024-07-06|2025-01-16|0|1
+358|C0176|Lia|Male|2002|Silver|Denpasar|Bali|2025-01-17|2025-03-27|0|2
+359|C0176|Lia|Male|2002|Platinum|Denpasar|Bali|2025-03-28||1|3
+360|C0177|Wayan|Male|1980|Platinum|Jakarta|DKI Jakarta|2024-10-01|2025-01-11|0|1
+361|C0177|Wayan|Male|1980|Silver|Surabaya|East Java|2025-01-12|2025-07-03|0|2
+362|C0177|Wayan|Male|1980|Gold|Medan|North Sumatra|2025-07-04||1|3
+363|C0178|Yoga|Other|1982|Silver|Medan|North Sumatra|2023-11-13||1|1
+364|C0179|Vina|Other|1996|Platinum|Medan|North Sumatra|2024-04-17|2024-08-27|0|1
+365|C0179|Vina|Other|1996|Silver|Bandung|West Java|2024-08-28||1|2
+366|C0180|Sinta|Female|1979|Gold|Medan|North Sumatra|2024-10-18||1|1
+367|C0181|Nadia|Male|2004|Silver|Jakarta|DKI Jakarta|2024-06-12|2024-09-11|0|1
+368|C0181|Nadia|Male|2004|Platinum|Surabaya|East Java|2024-09-12|2025-01-22|0|2
+369|C0181|Nadia|Male|2004|Silver|Denpasar|Bali|2025-01-23||1|3
+370|C0182|Maya|Male|1977|Regular|Medan|North Sumatra|2023-12-24|2024-02-28|0|1
+371|C0182|Maya|Male|1977|Gold|Medan|North Sumatra|2024-02-29||1|2
+372|C0183|Novi|Male|1987|Regular|Surabaya|East Java|2023-08-18|2023-10-24|0|1
+373|C0183|Novi|Male|1987|Gold|Yogyakarta|DI Yogyakarta|2023-10-25||1|2
+374|C0184|Wayan|Male|1979|Platinum|Bandung|West Java|2024-04-28|2024-12-22|0|1
+375|C0184|Wayan|Male|1979|Regular|Medan|North Sumatra|2024-12-23||1|2
+376|C0185|Joko|Female|1975|Platinum|Denpasar|Bali|2023-06-03||1|1
+377|C0186|Sari|Female|1999|Regular|Jakarta|DKI Jakarta|2023-11-05||1|1
+378|C0187|Novi|Other|1988|Regular|Medan|North Sumatra|2024-04-13|2024-06-28|0|1
+379|C0187|Novi|Other|1988|Silver|Yogyakarta|DI Yogyakarta|2024-06-29|2024-09-25|0|2
+380|C0187|Novi|Other|1988|Silver|Yogyakarta|DI Yogyakarta|2024-09-26||1|3
+381|C0188|Lia|Male|1988|Silver|Medan|North Sumatra|2023-12-28|2024-04-27|0|1
+382|C0188|Lia|Male|1988|Regular|Yogyakarta|DI Yogyakarta|2024-04-28|2024-11-20|0|2
+383|C0188|Lia|Male|1988|Gold|Denpasar|Bali|2024-11-21||1|3
+384|C0189|Joko|Other|2005|Platinum|Jakarta|DKI Jakarta|2024-06-03|2024-12-09|0|1
+385|C0189|Joko|Other|2005|Regular|Medan|North Sumatra|2024-12-10|2025-06-29|0|2
+386|C0189|Joko|Other|2005|Platinum|Yogyakarta|DI Yogyakarta|2025-06-30||1|3
+387|C0190|Vina|Other|1983|Gold|Jakarta|DKI Jakarta|2024-01-01||1|1
+388|C0191|Novi|Other|1998|Regular|Bandung|West Java|2023-04-17|2023-11-11|0|1
+389|C0191|Novi|Other|1998|Gold|Surabaya|East Java|2023-11-12|2024-04-05|0|2
+390|C0191|Novi|Other|1998|Silver|Yogyakarta|DI Yogyakarta|2024-04-06||1|3
+391|C0192|Yoga|Female|1997|Platinum|Yogyakarta|DI Yogyakarta|2023-07-06|2023-10-08|0|1
+392|C0192|Yoga|Female|1997|Gold|Jakarta|DKI Jakarta|2023-10-09|2023-12-24|0|2
+393|C0192|Yoga|Female|1997|Regular|Bandung|West Java|2023-12-25||1|3
+394|C0193|Dimas|Male|2003|Platinum|Medan|North Sumatra|2023-11-14|2024-05-23|0|1
+395|C0193|Dimas|Male|2003|Regular|Surabaya|East Java|2024-05-24||1|2
+396|C0194|Dimas|Female|1984|Gold|Surabaya|East Java|2024-11-02||1|1
+397|C0195|Sari|Female|2000|Gold|Medan|North Sumatra|2024-02-14|2024-08-04|0|1
+398|C0195|Sari|Female|2000|Platinum|Bandung|West Java|2024-08-05||1|2
+399|C0196|Putri|Other|1986|Platinum|Jakarta|DKI Jakarta|2023-03-26|2023-09-10|0|1
+400|C0196|Putri|Other|1986|Silver|Denpasar|Bali|2023-09-11||1|2
+401|C0197|Nadia|Female|1984|Gold|Surabaya|East Java|2023-03-23||1|1
+402|C0198|Lia|Other|1989|Gold|Medan|North Sumatra|2024-03-12|2024-06-22|0|1
+403|C0198|Lia|Other|1989|Regular|Medan|North Sumatra|2024-06-23|2025-02-14|0|2
+404|C0198|Lia|Other|1989|Gold|Yogyakarta|DI Yogyakarta|2025-02-15||1|3
+405|C0199|Sinta|Female|1988|Platinum|Yogyakarta|DI Yogyakarta|2023-02-28|2023-05-18|0|1
+406|C0199|Sinta|Female|1988|Silver|Surabaya|East Java|2023-05-19|2024-01-05|0|2
+407|C0199|Sinta|Female|1988|Silver|Jakarta|DKI Jakarta|2024-01-06||1|3
+408|C0200|Sinta|Female|1996|Silver|Jakarta|DKI Jakarta|2023-05-10||1|1
+409|C0201|Vina|Female|1986|Platinum|Yogyakarta|DI Yogyakarta|2023-02-03|2023-09-05|0|1
+410|C0201|Vina|Female|1986|Gold|Surabaya|East Java|2023-09-06|2023-12-14|0|2
+411|C0201|Vina|Female|1986|Regular|Medan|North Sumatra|2023-12-15||1|3
+412|C0202|Fajar|Other|1979|Gold|Yogyakarta|DI Yogyakarta|2024-02-12|2024-07-01|0|1
+413|C0202|Fajar|Other|1979|Regular|Bandung|West Java|2024-07-02||1|2
+414|C0203|Budi|Male|1998|Regular|Denpasar|Bali|2024-06-14|2024-11-20|0|1
+415|C0203|Budi|Male|1998|Gold|Surabaya|East Java|2024-11-21||1|2
+416|C0204|Yoga|Other|1981|Silver|Jakarta|DKI Jakarta|2024-05-17|2024-09-05|0|1
+417|C0204|Yoga|Other|1981|Platinum|Jakarta|DKI Jakarta|2024-09-06||1|2
+418|C0205|Rina|Other|2003|Gold|Surabaya|East Java|2023-03-31|2023-11-20|0|1
+419|C0205|Rina|Other|2003|Regular|Yogyakarta|DI Yogyakarta|2023-11-21||1|2
+420|C0206|Nadia|Female|1992|Silver|Yogyakarta|DI Yogyakarta|2023-06-11|2024-02-05|0|1
+421|C0206|Nadia|Female|1992|Silver|Surabaya|East Java|2024-02-06||1|2
+422|C0207|Sari|Male|1981|Gold|Jakarta|DKI Jakarta|2024-05-20||1|1
+423|C0208|Nadia|Female|1993|Regular|Denpasar|Bali|2024-07-18|2024-10-19|0|1
+424|C0208|Nadia|Female|1993|Gold|Jakarta|DKI Jakarta|2024-10-20||1|2
+425|C0209|Agus|Other|1997|Regular|Medan|North Sumatra|2024-06-22|2024-12-04|0|1
+426|C0209|Agus|Other|1997|Gold|Bandung|West Java|2024-12-05||1|2
+427|C0210|Joko|Female|1989|Silver|Denpasar|Bali|2024-06-13|2024-11-08|0|1
+428|C0210|Joko|Female|1989|Platinum|Bandung|West Java|2024-11-09|2025-02-09|0|2
+429|C0210|Joko|Female|1989|Regular|Denpasar|Bali|2025-02-10||1|3
+430|C0211|Sari|Male|1991|Silver|Surabaya|East Java|2023-06-18|2023-09-27|0|1
+431|C0211|Sari|Male|1991|Gold|Surabaya|East Java|2023-09-28||1|2
+432|C0212|Joko|Male|1983|Gold|Yogyakarta|DI Yogyakarta|2024-07-18|2024-11-25|0|1
+433|C0212|Joko|Male|1983|Regular|Denpasar|Bali|2024-11-26|2025-02-26|0|2
+434|C0212|Joko|Male|1983|Silver|Denpasar|Bali|2025-02-27||1|3
+435|C0213|Fajar|Other|2005|Gold|Yogyakarta|DI Yogyakarta|2023-06-25||1|1
+436|C0214|Fajar|Male|1976|Gold|Yogyakarta|DI Yogyakarta|2023-02-16||1|1
+437|C0215|Dimas|Other|1999|Platinum|Jakarta|DKI Jakarta|2024-09-24|2025-05-05|0|1
+438|C0215|Dimas|Other|1999|Gold|Yogyakarta|DI Yogyakarta|2025-05-06||1|2
+439|C0216|Lia|Male|1990|Regular|Jakarta|DKI Jakarta|2024-02-20|2024-07-05|0|1
+440|C0216|Lia|Male|1990|Platinum|Bandung|West Java|2024-07-06|2024-12-29|0|2
+441|C0216|Lia|Male|1990|Platinum|Medan|North Sumatra|2024-12-30||1|3
+442|C0217|Yoga|Female|1981|Gold|Yogyakarta|DI Yogyakarta|2023-05-28|2023-10-15|0|1
+443|C0217|Yoga|Female|1981|Silver|Medan|North Sumatra|2023-10-16|2024-03-05|0|2
+444|C0217|Yoga|Female|1981|Regular|Surabaya|East Java|2024-03-06||1|3
+445|C0218|Andi|Female|1982|Silver|Medan|North Sumatra|2023-10-01||1|1
+446|C0219|Wayan|Male|1978|Silver|Medan|North Sumatra|2024-01-29|2024-09-02|0|1
+447|C0219|Wayan|Male|1978|Gold|Bandung|West Java|2024-09-03||1|2
+448|C0220|Fajar|Female|1998|Platinum|Medan|North Sumatra|2023-06-13||1|1
+449|C0221|Putri|Female|2003|Platinum|Medan|North Sumatra|2023-01-24|2023-04-17|0|1
+450|C0221|Putri|Female|2003|Silver|Bandung|West Java|2023-04-18||1|2
+451|C0222|Fajar|Male|1986|Platinum|Medan|North Sumatra|2023-10-16||1|1
+452|C0223|Lia|Male|1992|Gold|Bandung|West Java|2024-03-17||1|1
+453|C0224|Vina|Female|1999|Silver|Jakarta|DKI Jakarta|2023-02-16|2023-07-28|0|1
+454|C0224|Vina|Female|1999|Gold|Surabaya|East Java|2023-07-29||1|2
+455|C0225|Joko|Other|1987|Regular|Denpasar|Bali|2024-07-17|2024-11-25|0|1
+456|C0225|Joko|Other|1987|Regular|Bandung|West Java|2024-11-26||1|2
+457|C0226|Agus|Female|1986|Platinum|Denpasar|Bali|2024-01-10|2024-04-15|0|1
+458|C0226|Agus|Female|1986|Regular|Denpasar|Bali|2024-04-16|2024-08-04|0|2
+459|C0226|Agus|Female|1986|Regular|Jakarta|DKI Jakarta|2024-08-05||1|3
+460|C0227|Wayan|Female|1997|Silver|Bandung|West Java|2024-06-15|2024-12-08|0|1
+461|C0227|Wayan|Female|1997|Gold|Surabaya|East Java|2024-12-09||1|2
+462|C0228|Rina|Other|1987|Platinum|Denpasar|Bali|2023-11-03|2024-06-01|0|1
+463|C0228|Rina|Other|1987|Gold|Yogyakarta|DI Yogyakarta|2024-06-02|2024-10-26|0|2
+464|C0228|Rina|Other|1987|Regular|Medan|North Sumatra|2024-10-27||1|3
+465|C0229|Vina|Other|1985|Gold|Denpasar|Bali|2024-03-02||1|1
+466|C0230|Budi|Female|1994|Silver|Denpasar|Bali|2024-11-02|2025-05-29|0|1
+467|C0230|Budi|Female|1994|Regular|Yogyakarta|DI Yogyakarta|2025-05-30||1|2
+468|C0231|Fajar|Male|1990|Silver|Bandung|West Java|2024-10-06|2025-05-12|0|1
+469|C0231|Fajar|Male|1990|Regular|Jakarta|DKI Jakarta|2025-05-13||1|2
+470|C0232|Dimas|Female|1975|Silver|Medan|North Sumatra|2024-03-04|2024-06-10|0|1
+471|C0232|Dimas|Female|1975|Platinum|Medan|North Sumatra|2024-06-11||1|2
+472|C0233|Ani|Male|1997|Platinum|Yogyakarta|DI Yogyakarta|2023-08-01|2024-02-20|0|1
+473|C0233|Ani|Male|1997|Platinum|Denpasar|Bali|2024-02-21|2024-07-13|0|2
+474|C0233|Ani|Male|1997|Silver|Surabaya|East Java|2024-07-14||1|3
+475|C0234|Yoga|Other|2004|Gold|Yogyakarta|DI Yogyakarta|2024-07-13|2024-12-10|0|1
+476|C0234|Yoga|Other|2004|Platinum|Denpasar|Bali|2024-12-11||1|2
+477|C0235|Dimas|Male|2005|Gold|Bandung|West Java|2024-07-25|2024-12-08|0|1
+478|C0235|Dimas|Male|2005|Silver|Surabaya|East Java|2024-12-09||1|2
+479|C0236|Putri|Female|1985|Regular|Surabaya|East Java|2024-07-27|2024-12-04|0|1
+480|C0236|Putri|Female|1985|Platinum|Denpasar|Bali|2024-12-05||1|2
+481|C0237|Agus|Female|2001|Gold|Jakarta|DKI Jakarta|2023-10-25||1|1
+482|C0238|Joko|Female|1986|Gold|Bandung|West Java|2023-09-20|2024-03-20|0|1
+483|C0238|Joko|Female|1986|Gold|Denpasar|Bali|2024-03-21|2024-07-13|0|2
+484|C0238|Joko|Female|1986|Regular|Bandung|West Java|2024-07-14||1|3
+485|C0239|Sinta|Other|1998|Silver|Jakarta|DKI Jakarta|2023-09-06||1|1
+486|C0240|Novi|Male|1976|Silver|Jakarta|DKI Jakarta|2023-12-05|2024-06-02|0|1
+487|C0240|Novi|Male|1976|Silver|Jakarta|DKI Jakarta|2024-06-03||1|2
+488|C0241|Maya|Female|1995|Gold|Surabaya|East Java|2024-10-28|2025-02-16|0|1
+489|C0241|Maya|Female|1995|Regular|Surabaya|East Java|2025-02-17||1|2
+490|C0242|Joko|Other|1995|Regular|Yogyakarta|DI Yogyakarta|2024-07-01||1|1
+491|C0243|Rina|Male|1988|Silver|Medan|North Sumatra|2024-02-11||1|1
+492|C0244|Lia|Male|2003|Regular|Denpasar|Bali|2023-11-02||1|1
+493|C0245|Andi|Female|1984|Platinum|Bandung|West Java|2024-07-10|2025-01-20|0|1
+494|C0245|Andi|Female|1984|Silver|Surabaya|East Java|2025-01-21|2025-07-26|0|2
+495|C0245|Andi|Female|1984|Gold|Jakarta|DKI Jakarta|2025-07-27||1|3
+496|C0246|Rina|Female|1998|Gold|Yogyakarta|DI Yogyakarta|2023-09-21|2024-01-06|0|1
+497|C0246|Rina|Female|1998|Silver|Surabaya|East Java|2024-01-07|2024-03-10|0|2
+498|C0246|Rina|Female|1998|Platinum|Bandung|West Java|2024-03-11||1|3
+499|C0247|Maya|Female|1991|Regular|Yogyakarta|DI Yogyakarta|2024-02-15||1|1
+500|C0248|Rina|Female|1979|Platinum|Surabaya|East Java|2023-09-12|2023-11-12|0|1
+501|C0248|Rina|Female|1979|Platinum|Bandung|West Java|2023-11-13||1|2
+502|C0249|Rudi|Female|2005|Gold|Jakarta|DKI Jakarta|2024-08-19|2025-03-13|0|1
+503|C0249|Rudi|Female|2005|Gold|Yogyakarta|DI Yogyakarta|2025-03-14||1|2
+504|C0250|Novi|Other|1976|Silver|Surabaya|East Java|2024-04-21||1|1

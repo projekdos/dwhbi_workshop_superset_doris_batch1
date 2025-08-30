@@ -101,6 +101,8 @@ Design and build a **dashboard** that provides actionable insights into sales pe
 - Deadline: 14 Sep, 2025 23:59:59
 - There is no single correct answer. The goal is to **demonstrate creativity and insight** while using the dataset effectively
 
+## **Server**
+- Linux Server (on this workshop) using Cloudhost: Get Free Rp25,000 Referral [Get Voucher](https://console.idcloudhost.com/referral/8d3mf2)
 ---
 
 **Good luck and happy analyzing!**
@@ -108,9 +110,11 @@ Design and build a **dashboard** that provides actionable insights into sales pe
 # Business Partnership & Collaboration Contact
 
 Contact:
- - Email: info@projekdos.com
- - Whatsapp: +6281385368844 (Admin)
+ - Email: info@projekdos.com, projek.freedomopensource@gmail.com
+ - Google Form: https://forms.gle/JSk7S2LsHUS7RLsT9
  - Linkedin: https://www.linkedin.com/company/projek-dos/
+ - Discord: https://discord.com/invite/zvvBv7pyUh
+ - Instagram: https://www.instagram.com/projekdos/
  - Youtube: https://www.youtube.com/@wndktech
 
  ![Alt text](https://github.com/projekdos/dwhbi_workshop_superset_doris_batch1/blob/main/image/projeckDos2-fullcolor-white.png)

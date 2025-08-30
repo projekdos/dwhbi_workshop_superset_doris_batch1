@@ -2,8 +2,12 @@
 
  ![Alt text](https://github.com/projekdos/dwhbi_workshop_superset_doris_batch1/blob/main/image/header.png)
 
-This hands-on workshop Prepared by:
+This hands-on workshop, material Prepared by:
 - Wandhana Kurnia [LinkedIn](https://www.linkedin.com/in/wandhanakurnia/)
+- M. Huzaifah (Ivan) [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifah-625a623b/)
+
+Sponsored by :
+- DNAStudio Teknologi Indonesia [LinkedIn](https://www.linkedin.com/company/dnastudio-teknologi-indonesia/)
 
 This workshop is designed to cover the fundamental concepts, including:
  - Data Warehouse Architecture using Open Source technologies
@@ -93,9 +97,9 @@ Design and build a **dashboard** that provides actionable insights into sales pe
 ---
 
 ### ✅ Submit & Deadline:
-Submit to Email: info@projekdos.com / projek.freedomopensource@gmail.com
-Deadline: 14 Sep, 2025 23:59:59
-There is no single correct answer. The goal is to **demonstrate creativity and insight** while using the dataset effectively
+- Submit to Email: info@projekdos.com / projek.freedomopensource@gmail.com
+- Deadline: 14 Sep, 2025 23:59:59
+- There is no single correct answer. The goal is to **demonstrate creativity and insight** while using the dataset effectively
 
 ---
 

@@ -107,6 +107,7 @@ PROPERTIES (
     "replication_allocation" = "tag.location.default: 1"
 );
 
+create database datamart;
 
 CREATE TABLE datamart.dm_sales (
     -- From fact_sales

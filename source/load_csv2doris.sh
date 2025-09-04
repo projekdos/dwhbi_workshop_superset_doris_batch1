@@ -6,7 +6,7 @@
 
 # Common configs
 USER="root"
-PASSWORD=""
+PASSWORD="yourStrongPassw0rd"
 HOST="http://localhost:8030"
 DB_NAME="star"
 DATA_FOLDER="/home/administrator/script/generate-dummy"
